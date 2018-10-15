@@ -1,0 +1,3 @@
+2018-10-15 10:47:18.994 ERROR [] [] com.logback.test.controllers.IndexController - [nice]addasdasdasd
+2018-10-15 10:47:31.844 ERROR [] [] com.logback.test.controllers.IndexController - [nice]addasdasdasd
+2018-10-15 10:50:45.372 ERROR [] [] com.logback.test.controllers.IndexController - [nice]addasdasdasd
